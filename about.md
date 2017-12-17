@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Publications
+
+- [Metabolomic-based biomarker discovery for non-invasive lung cancer screening: A case study](http://www.sciencedirect.com/science/article/pii/S030441651630246X)
+K O'Shea, SJS Cameron, KE Lewis, C Lu, LAJ Mur - Biochimica et Biophysica Acta (BBA)-General Subjects, 2016
+
+### Pre-Prints
 
 ### Contact me
 
